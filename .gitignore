@@ -1,3 +1,8 @@
+# User-added files
+bin/
+pyvenv.cfg
+include/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
